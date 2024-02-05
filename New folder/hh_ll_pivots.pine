@@ -1,0 +1,6 @@
+//@version=5
+indicator(title = "Palusa Waves 1.0" , overlay = true)
+
+// plotshape(data, style=shape.triangleup,location=location.abovebar, color=color.green)
+
+for(i = )
